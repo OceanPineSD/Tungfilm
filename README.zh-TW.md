@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="docs/logo-light.svg#gh-light-mode-only" alt="OpenFilm" height="48">
-  <img src="docs/logo-dark.svg#gh-dark-mode-only" alt="OpenFilm" height="48">
+  <img src="docs/logo-light.svg#gh-light-mode-only" alt="Tungfilm" height="48">
+  <img src="docs/logo-dark.svg#gh-dark-mode-only" alt="Tungfilm" height="48">
 </p>
+<p align="center"><b>Tungfilm</b> is an unofficial, independent copy of <a href="https://github.com/openfilm/openfilm">openfilm/openfilm</a> (MIT).<br>
+Based on openfilm/openfilm. Not made, endorsed or supported by the OpenFilm project. See <a href="CHANGES.md">CHANGES.md</a> and <a href="TRADEMARK.md">TRADEMARK.md</a>.</p>
 <p align="center">開源的 AI 影片代理。</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/openfilm"><img alt="npm" src="https://img.shields.io/npm/v/openfilm?style=flat-square" /></a>
-  <a href="https://github.com/openfilm/openfilm/actions/workflows/ci.yml"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/openfilm/openfilm/ci.yml?style=flat-square&branch=main&label=build" /></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/openfilm/openfilm?style=flat-square" /></a>
-</p>
 
 <p align="center">
   <a href="README.md">English</a> |
@@ -34,13 +31,7 @@
   <a href="README.vi.md">Tiếng Việt</a>
 </p>
 
-<p align="center">
-  <a href="https://openfilm.dev"><img alt="前往官網" src="docs/buttons/website.zh-TW.svg" /></a>
-  <a href="https://discord.gg/dgk4MtNWFZ"><img alt="Discord 中文社群" src="docs/buttons/discord.zh-TW.svg" /></a>
-  <a href="https://www.youtube.com/@riverisbuilding"><img alt="在 YouTube 觀看" src="docs/buttons/youtube.zh-TW.svg" /></a>
-</p>
 
-[![OpenFilm：代理做片子，你在旁邊看著，再親手修改](docs/openfilm.webp)](https://openfilm.dev)
 
 ---
 

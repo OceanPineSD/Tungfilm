@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="docs/logo-light.svg#gh-light-mode-only" alt="OpenFilm" height="48">
-  <img src="docs/logo-dark.svg#gh-dark-mode-only" alt="OpenFilm" height="48">
+  <img src="docs/logo-light.svg#gh-light-mode-only" alt="Tungfilm" height="48">
+  <img src="docs/logo-dark.svg#gh-dark-mode-only" alt="Tungfilm" height="48">
 </p>
+<p align="center"><b>Tungfilm</b> is an unofficial, independent copy of <a href="https://github.com/openfilm/openfilm">openfilm/openfilm</a> (MIT).<br>
+Based on openfilm/openfilm. Not made, endorsed or supported by the OpenFilm project. See <a href="CHANGES.md">CHANGES.md</a> and <a href="TRADEMARK.md">TRADEMARK.md</a>.</p>
 <p align="center">开源的 AI 视频智能体。</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/openfilm"><img alt="npm" src="https://img.shields.io/npm/v/openfilm?style=flat-square" /></a>
-  <a href="https://github.com/openfilm/openfilm/actions/workflows/ci.yml"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/openfilm/openfilm/ci.yml?style=flat-square&branch=main&label=build" /></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/openfilm/openfilm?style=flat-square" /></a>
-</p>
 
 <p align="center">
   <a href="README.md">English</a> |
@@ -34,16 +31,7 @@
   <a href="README.vi.md">Tiếng Việt</a>
 </p>
 
-<p align="center">
-  <a href="https://openfilm.dev"><img alt="访问官网" src="docs/buttons/website.zh-CN.svg" /></a>
-  <a href="https://discord.gg/dgk4MtNWFZ"><img alt="Discord 中文社区" src="docs/buttons/discord.zh-CN.svg" /></a>
-  <img alt="微信 riverisbuilding，加好友进群" src="docs/buttons/wechat.zh-CN.svg" />
-  <a href="https://space.bilibili.com/1229893183"><img alt="B 站" src="docs/buttons/bilibili.zh-CN.svg" /></a>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAALPQoqnSDKNMQsR5GNnnx_nwq-rI1MsAyqcZRNuOzKjs"><img alt="抖音" src="docs/buttons/douyin.zh-CN.svg" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/695bfa62000000003700029d"><img alt="小红书" src="docs/buttons/xiaohongshu.zh-CN.svg" /></a>
-</p>
 
-[![OpenFilm：智能体做片子，你在旁边看着，再亲手修改](docs/openfilm.webp)](https://openfilm.dev)
 
 ---
 

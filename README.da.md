@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="docs/logo-light.svg#gh-light-mode-only" alt="OpenFilm" height="48">
-  <img src="docs/logo-dark.svg#gh-dark-mode-only" alt="OpenFilm" height="48">
+  <img src="docs/logo-light.svg#gh-light-mode-only" alt="Tungfilm" height="48">
+  <img src="docs/logo-dark.svg#gh-dark-mode-only" alt="Tungfilm" height="48">
 </p>
+<p align="center"><b>Tungfilm</b> is an unofficial, independent copy of <a href="https://github.com/openfilm/openfilm">openfilm/openfilm</a> (MIT).<br>
+Based on openfilm/openfilm. Not made, endorsed or supported by the OpenFilm project. See <a href="CHANGES.md">CHANGES.md</a> and <a href="TRADEMARK.md">TRADEMARK.md</a>.</p>
 <p align="center">AI-videoagenten med åben kildekode.</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/openfilm"><img alt="npm" src="https://img.shields.io/npm/v/openfilm?style=flat-square" /></a>
-  <a href="https://github.com/openfilm/openfilm/actions/workflows/ci.yml"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/openfilm/openfilm/ci.yml?style=flat-square&branch=main&label=build" /></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/openfilm/openfilm?style=flat-square" /></a>
-</p>
 
 <p align="center">
   <a href="README.md">English</a> |
@@ -34,13 +31,7 @@
   <a href="README.vi.md">Tiếng Việt</a>
 </p>
 
-<p align="center">
-  <a href="https://openfilm.dev"><img alt="Visit our website" src="docs/buttons/website.svg" /></a>
-  <a href="https://discord.gg/a462Rs88hF"><img alt="Join our Discord" src="docs/buttons/discord.svg" /></a>
-  <a href="https://www.youtube.com/@riverisbuilding"><img alt="Watch on YouTube" src="docs/buttons/youtube.svg" /></a>
-</p>
 
-[![OpenFilm: en agent laver en film, mens du ser på, og bagefter ændrer du den i hånden](docs/openfilm.webp)](https://openfilm.dev)
 
 ---
 
